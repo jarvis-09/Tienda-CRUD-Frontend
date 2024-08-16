@@ -1,0 +1,36 @@
+/* Estilo personalizado para toastr */
+.toast-success {
+    background-color: #28a745 !important;
+    color: #ffffff !important;
+  }
+  
+  .toast-error {
+    background-color: #dc3545 !important;
+    color: #ffffff !important;
+  }
+  
+  .toast-warning {
+    background-color: #ffc107 !important;
+    color: #000000 !important;
+  }
+  
+  .toast-info {
+    background-color: #17a2b8 !important;
+    color: #ffffff !important;
+  }
+  
+  /* Personaliza el botón de cierre */
+  .toast-close-button {
+    color: #ffffff !important;
+    opacity: 0.8;
+  }
+  
+  .toast-close-button:hover {
+    opacity: 1;
+  }
+  
+  /* Barra de progreso personalizada */
+  .ngx-toastr .toast-progress {
+    background-color: #ffffff !important;
+  }
+  
